@@ -1,1 +1,1 @@
-A GitLab server was created and deployed to host private code files hosted on a CentOS machine. The server was also secured by implementing multiple steps and strategies like using HTTPS and implication of MFA to authorize the users trying to access the server.
+A GitLab server was created and deployed to host private code files hosted on a CentOS machine. The server was also secured by implementing multiple steps and strategies like using HTTPS and the implication of MFA to authorize the users trying to access the server.
